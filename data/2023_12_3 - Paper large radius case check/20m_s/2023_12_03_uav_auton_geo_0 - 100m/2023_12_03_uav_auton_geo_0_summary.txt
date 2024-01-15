@@ -1,0 +1,5 @@
+Run Date: 2023_12_03, Time of Run: 16:00:50
+Batch name and run #: uav_auton_geo run 0
+UAV parameter file: uav_ic_auton_set1
+GV parameter file: gv_ic_auton_set2
+2023_12_03_uav_auton_geo_0_g0_u0, complete in 593.799s
